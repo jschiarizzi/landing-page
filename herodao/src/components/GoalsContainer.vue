@@ -12,7 +12,7 @@
         </div>
         <div class="flex font-avenir justify-center sm:text-2xl text-xs">
           Work together to raise<br />
-          money from the community
+          money as a community
         </div>
         <div class="flex flex-col sm:space-y-4 space-y-2 sm:pt-8">
           <img class="flex sm:h-28 h-12" src="@/assets/create.svg" />
@@ -39,7 +39,7 @@
         <div
           class="flex font-architects-daughter justify-center font-extrabold sm:text-2xl"
         >
-          Pick Hero
+          Pick Heroes
         </div>
         <div class="flex font-avenir justify-center sm:text-2xl text-xs">
           Members vote on which<br />
@@ -50,7 +50,7 @@
           <div
             class="flex font-architects-daughter justify-center font-extrabold sm:text-2xl"
           >
-            Print
+            Produce
           </div>
           <div class="flex font-avenir justify-center sm:text-2xl text-xs">
             Print physical copies<br />
