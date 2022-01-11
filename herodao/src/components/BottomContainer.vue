@@ -56,7 +56,7 @@
           <a href="https://wrapeth.com/">Token Wrapper</a>
         </div>
         <div class="hover:underline">
-          <a href="#">Moon Rock Token (coming soon)</a>
+          <a href="https://github.com/HeroDAO">GitHub</a>
         </div>
       </div>
       <div
