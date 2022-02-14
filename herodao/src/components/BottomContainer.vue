@@ -95,10 +95,24 @@
         class="flex flex-col flex-shrink text-xxs pl-1 mt-2 sm:text-sm md:mt-6 sm:mt-4"
       >
         <div class="flex font-bold underline">Deployed Contracts</div>
-        <div class="hover:underline"><a href="">DAO Contract</a></div>
-        <div class="hover:underline"><a href="">Moon Rock (Mainnet)</a></div>
-        <div class="hover:underline"><a href="">Moon Rock (Gnosis)</a></div>
-        <div class="hover:underline"><a href="">Swapr Pool</a></div>
+        <div class="hover:underline">
+          <a
+            href="https://blockscout.com/xdai/mainnet/address/0x82b09C514d5427C8184b2fe7dC9FA632a6C05c26/transactions"
+            >DAO Contract</a
+          >
+        </div>
+        <div class="hover:underline">
+          <a
+            href="https://blockscout.com/poa/xdai/token/0x481D6104761442F162d1f7AC3DC6F98896e7A4ef"
+            >Moon Rock (Gnosis Chain)</a
+          >
+        </div>
+        <div class="hover:underline">
+          <a
+            href="https://swapr.eth.link/#/rewards/0x481D6104761442F162d1f7AC3DC6F98896e7A4ef/0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d/0x91624A9a87865DAAbb40747AD2Faf6453dB8d784?chainId=100"
+            >Swapr Pool</a
+          >
+        </div>
       </div>
     </div>
   </div>
